@@ -25,8 +25,8 @@ Gui, Show, w900 h510, NO RECOIL 2023
 
 ;visloom28vi's AHK MultiScript Final, Please Sub!
 ;Settings
-sens:=2.52
-zoomsens:=0.75
+sens:=2.99
+zoomsens:=1.00
 
 ;Key binds
 key_AK:="F4"
